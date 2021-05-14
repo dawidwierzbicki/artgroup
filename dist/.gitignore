@@ -1,4 +1,4 @@
 *.*
 !.gitignore
-!images/**/*.*
+!img/**/*.*
 .DS_Store
